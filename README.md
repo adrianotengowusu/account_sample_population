@@ -1,5 +1,5 @@
 # account_sample_population
-This script enables you reference an XML product feed and create dummy data based on the products in the feed.
+This script enables you to reference an XML product feed and create dummy data based on the products in the feed.
 
 
 Pre-requisites:
