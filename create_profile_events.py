@@ -7,8 +7,8 @@ import requests
 import json
 
 # ----------------- CONFIGURATION -----------------
-KLAVIYO_PRIVATE_API_KEY = "YOUR_API_KEY"
-NUM_USERS = 50  # Number of simulated users
+KLAVIYO_PRIVATE_API_KEY = "YOUR_PRIVATE_API_KEY"
+NUM_USERS = 10  # Number of simulated users
 XML_PATH = "FGC Product Feed - Sheet1.xml"
 
 # API endpoint for events as per the example.
@@ -59,6 +59,7 @@ def create_fake_profile():
         "preferred_colour": random.choice(["black", "brown", "blue", "red", "tortoise"]),
         "prescription": random.choice(["short-sighted", "long-sighted", "astigmatism"]),
         "subscriber": random.choice([True, False]),
+        "source": random.choice(["newsletter", "partner_website", "google", "bing", "facebook", "instagram", "twitter", "linkedin"])
     }
     return {
         "id": str(uuid.uuid4()),
@@ -129,7 +130,8 @@ def send_event(profile, event_name, timestamp, product=None, quantity=1, complet
                                 "Frame Shape": profile["frame_shape"],
                                 "Preferred Colour": profile["preferred_colour"],
                                 "Prescription": profile["prescription"],
-                                "Subscriber": profile["subscriber"]
+                                "Subscriber": profile["subscriber"],
+                                "$source": profile["source"]
                             }
                         }
                     }
