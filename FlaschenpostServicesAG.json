@@ -1,0 +1,533 @@
+{
+  "products": [
+    {
+      "id": "1201292",
+      "title": "Réserve du Château AOC Saint-Émilion Grand Cru Classé 2019 - Château Faugères",
+      "url": "https://www.flaschenpost.ch/en/reserve-du-chateau-aoc-saint-emilion-grand-cru-classe_chateau-faugeres?_size=750&_vintage=2019",
+      "image_link": "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiI2MTVkYzdjOS1lOWE4LTQ1NDUtYWMxNi0yZTg3MzBjMjE4ZTgucG5nIiwiYnVja2V0Ijoic3BpbmUtcHJvZHVjdC1pbWFnZXMtcHJvZCIsImVkaXRzIjp7InJlc2l6ZSI6eyJoZWlnaHQiOjgwMH0sInRyaW0iOjAuMX19",
+      "image_links": [
+        "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiI2MTVkYzdjOS1lOWE4LTQ1NDUtYWMxNi0yZTg3MzBjMjE4ZTgucG5nIiwiYnVja2V0Ijoic3BpbmUtcHJvZHVjdC1pbWFnZXMtcHJvZCIsImVkaXRzIjp7InJlc2l6ZSI6eyJoZWlnaHQiOjgwMH0sInRyaW0iOjAuMX19"
+      ],
+      "categories": [
+        "Wine",
+        "Red wine",
+        "France",
+        "Bordeaux"
+      ],
+      "price": 35.95,
+      "currency": "CHF",
+      "description": "A full-bodied 2019 Bordeaux Grand Cru with blackcurrant, blackberry, spice and tobacco notes, structured tannins and a long finish.",
+      "stock": 150,
+      "producer": "Château Faugères",
+      "vintage": 2019,
+      "size_cl": 75,
+      "source_listing_page": 1
+    },
+    {
+      "id": "1214202",
+      "title": "Primitivo Puglia IGP Senza Parole 2024 - Senza Parole",
+      "url": "https://www.flaschenpost.ch/en/primitivo-puglia-igp-senza-parole_senza-parole?_size=750&_vintage=2024",
+      "image_link": "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiI4YmNjODgxMi0wOTE3LTQ4OTItOTdkNS05MzI4YmJlZWExOWQucG5nIiwiYnVja2V0Ijoic3BpbmUtcHJvZHVjdC1pbWFnZXMtcHJvZCIsImVkaXRzIjp7InJlc2l6ZSI6eyJoZWlnaHQiOjgwMH0sInRyaW0iOjAuMX19",
+      "image_links": [
+        "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiI4YmNjODgxMi0wOTE3LTQ4OTItOTdkNS05MzI4YmJlZWExOWQucG5nIiwiYnVja2V0Ijoic3BpbmUtcHJvZHVjdC1pbWFnZXMtcHJvZCIsImVkaXRzIjp7InJlc2l6ZSI6eyJoZWlnaHQiOjgwMH0sInRyaW0iOjAuMX19"
+      ],
+      "categories": [
+        "Wine",
+        "Red wine",
+        "Italy",
+        "Puglia"
+      ],
+      "price": 12.95,
+      "currency": "CHF",
+      "description": "A smooth, approachable Primitivo from Puglia offering berry and plum flavours, a soft texture and notes of dried fruit.",
+      "stock": 150,
+      "producer": "Senza Parole",
+      "vintage": 2024,
+      "size_cl": 75,
+      "source_listing_page": 1
+    },
+    {
+      "id": "2001785",
+      "title": "5V Toscana Rosso IGT - Barbanera",
+      "url": "https://www.flaschenpost.ch/en/5v-toscana-rosso-igt?_size=750&_vintage=0",
+      "image_link": "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vOTcwN2QzZTAtNDM4MC00MWRhLWI1ZjUtNDA2Njc3ODlhZWQwLzE3ODk3MTU3MjM1NDAta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D",
+      "image_links": [
+        "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vOTcwN2QzZTAtNDM4MC00MWRhLWI1ZjUtNDA2Njc3ODlhZWQwLzE3ODk3MTU3MjM1NDAta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D"
+      ],
+      "categories": [
+        "Wine",
+        "Red wine",
+        "Italy",
+        "Tuscany"
+      ],
+      "price": 20.95,
+      "currency": "CHF",
+      "description": "A multi-vintage Tuscan red blend with ripe plum, raspberry, gentle spice, balanced tannins and a rounded finish.",
+      "stock": 150,
+      "producer": "Barbanera",
+      "vintage": null,
+      "size_cl": 75,
+      "source_listing_page": 1
+    },
+    {
+      "id": "1216133",
+      "title": "Negroamaro Salento IGP 2022 - Mavrio",
+      "url": "https://www.flaschenpost.ch/en/negroamaro-di-salento-igt_mavrio?_size=750&_vintage=2022",
+      "image_link": "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vMGVmYjU1ZGEtMTA5NS00ZjNlLWI0MjEtYmQ1MzYwYzllNGUyLzE3ODk3MjQ2NzEzNDgta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D",
+      "image_links": [
+        "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vMGVmYjU1ZGEtMTA5NS00ZjNlLWI0MjEtYmQ1MzYwYzllNGUyLzE3ODk3MjQ2NzEzNDgta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D"
+      ],
+      "categories": [
+        "Wine",
+        "Red wine",
+        "Italy",
+        "Puglia"
+      ],
+      "price": 14.95,
+      "currency": "CHF",
+      "description": "A smooth southern Italian Negroamaro with juicy berries, cherry, strawberry and a rich, warm character.",
+      "stock": 150,
+      "producer": "Mavrio",
+      "vintage": 2022,
+      "size_cl": 75,
+      "source_listing_page": 1
+    },
+    {
+      "id": "1222168",
+      "title": "Barbera d'Alba DOC Elena 2023 - Roberto Sarotto",
+      "url": "https://www.flaschenpost.ch/en/barbera-d-alba-doc-elena_roberto-sarotto?_size=750&_vintage=2023",
+      "image_link": "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vNTY2YTI4MDEtOTA4MC00ZGM5LWE5ZTktMjgxZDBhZGYzZGM2LzE3OTE5ODI1MTIwMDItYmFyYmVyYS1kLTI3YWxiYS1kb2MtZWxlbmEtYTU0MDItNi1yZW1vdmViZy1wcmV2aWV3LnBuZyIsImJ1Y2tldCI6InNwaW5lLXByb2R1Y3QtaW1hZ2VzLXByb2QiLCJlZGl0cyI6eyJyZXNpemUiOnsiaGVpZ2h0Ijo4MDB9LCJ0cmltIjowLjF9fQ%3D%3D",
+      "image_links": [
+        "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vNTY2YTI4MDEtOTA4MC00ZGM5LWE5ZTktMjgxZDBhZGYzZGM2LzE3OTE5ODI1MTIwMDItYmFyYmVyYS1kLTI3YWxiYS1kb2MtZWxlbmEtYTU0MDItNi1yZW1vdmViZy1wcmV2aWV3LnBuZyIsImJ1Y2tldCI6InNwaW5lLXByb2R1Y3QtaW1hZ2VzLXByb2QiLCJlZGl0cyI6eyJyZXNpemUiOnsiaGVpZ2h0Ijo4MDB9LCJ0cmltIjowLjF9fQ%3D%3D"
+      ],
+      "categories": [
+        "Wine",
+        "Red wine",
+        "Italy",
+        "Piedmont"
+      ],
+      "price": 19.95,
+      "currency": "CHF",
+      "description": "A silky Piedmont Barbera with ripe cherry and plum, refreshing acidity, soft tannins and delicate spice.",
+      "stock": 150,
+      "producer": "Roberto Sarotto",
+      "vintage": 2023,
+      "size_cl": 75,
+      "source_listing_page": 1
+    },
+    {
+      "id": "1207784",
+      "title": "Atos Toscana IGT 2021 - Corte Medicea",
+      "url": "https://www.flaschenpost.ch/en/atos-igt_bollina?_size=750&_vintage=2021",
+      "image_link": "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJmMmU3Zjc5My00MTU1LTQ2MmQtYWFhOS1hYjMzZWU5NGE4MzIucG5nIiwiYnVja2V0Ijoic3BpbmUtcHJvZHVjdC1pbWFnZXMtcHJvZCIsImVkaXRzIjp7InJlc2l6ZSI6eyJoZWlnaHQiOjgwMH0sInRyaW0iOjAuMX19",
+      "image_links": [
+        "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJmMmU3Zjc5My00MTU1LTQ2MmQtYWFhOS1hYjMzZWU5NGE4MzIucG5nIiwiYnVja2V0Ijoic3BpbmUtcHJvZHVjdC1pbWFnZXMtcHJvZCIsImVkaXRzIjp7InJlc2l6ZSI6eyJoZWlnaHQiOjgwMH0sInRyaW0iOjAuMX19"
+      ],
+      "categories": [
+        "Wine",
+        "Red wine",
+        "Italy",
+        "Tuscany"
+      ],
+      "price": 29.95,
+      "currency": "CHF",
+      "description": "A rich, velvety Super Tuscan with blackberry, blackcurrant, chocolate, liquorice and a long, elegant finish.",
+      "stock": 150,
+      "producer": "Corte Medicea",
+      "vintage": 2021,
+      "size_cl": 75,
+      "source_listing_page": 1
+    },
+    {
+      "id": "1195671",
+      "title": "Nero d'Avola Sicilia DOC 2022 - Tosone",
+      "url": "https://www.flaschenpost.ch/en/nero-d-avola-terre-siciliane-igt-invecchiato-in-barrique_tosone?_size=750&_vintage=2022",
+      "image_link": "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJmNjFiYjdiMC1mNzg1LTQyZDQtOWI4ZC0yOGVkYTFjMTc5YmIucG5nIiwiYnVja2V0Ijoic3BpbmUtcHJvZHVjdC1pbWFnZXMtcHJvZCIsImVkaXRzIjp7InJlc2l6ZSI6eyJoZWlnaHQiOjgwMH0sInRyaW0iOjAuMX19",
+      "image_links": [
+        "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJmNjFiYjdiMC1mNzg1LTQyZDQtOWI4ZC0yOGVkYTFjMTc5YmIucG5nIiwiYnVja2V0Ijoic3BpbmUtcHJvZHVjdC1pbWFnZXMtcHJvZCIsImVkaXRzIjp7InJlc2l6ZSI6eyJoZWlnaHQiOjgwMH0sInRyaW0iOjAuMX19"
+      ],
+      "categories": [
+        "Wine",
+        "Red wine",
+        "Italy",
+        "Sicily"
+      ],
+      "price": 14.95,
+      "currency": "CHF",
+      "description": "A robust Sicilian Nero d’Avola with dark fruit, liquorice, juniper and warm spice, matured in oak.",
+      "stock": 150,
+      "producer": "Tosone",
+      "vintage": 2022,
+      "size_cl": 75,
+      "source_listing_page": 1
+    },
+    {
+      "id": "2000662",
+      "title": "Montepulciano D’Abruzzo 2025 - Jasci & Marchesani",
+      "url": "https://www.flaschenpost.ch/en/montepulciano-dabruzzo?_size=750&_vintage=2025",
+      "image_link": "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vNTNhZGNkMDEtOTRiZC00YjRjLTgxNGQtNjJjMGFiMDZlMDYyLzE3ODk3MjM1NDYzMTMta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D",
+      "image_links": [
+        "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vNTNhZGNkMDEtOTRiZC00YjRjLTgxNGQtNjJjMGFiMDZlMDYyLzE3ODk3MjM1NDYzMTMta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D"
+      ],
+      "categories": [
+        "Wine",
+        "Red wine",
+        "Italy",
+        "Abbruzzi"
+      ],
+      "price": 14.95,
+      "currency": "CHF",
+      "description": "An organic Montepulciano from Abruzzo with bright cherry, raspberry, gentle spice and approachable tannins.",
+      "stock": 150,
+      "producer": "Jasci & Marchesani",
+      "vintage": 2025,
+      "size_cl": 75,
+      "source_listing_page": 1
+    },
+    {
+      "id": "1219410",
+      "title": "Son Antem S’Era 2024 - Bodega Son Antem",
+      "url": "https://www.flaschenpost.ch/en/son-antem-sera_bodega-son-antem?_size=750&_vintage=2024",
+      "image_link": "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vNDJiOWVlNzItMWUxMS00MDQxLTgxZjYtMmNlZDFjNzFlNjdmLzE3ODk3MTUyMTYwODQta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D",
+      "image_links": [
+        "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vNDJiOWVlNzItMWUxMS00MDQxLTgxZjYtMmNlZDFjNzFlNjdmLzE3ODk3MTUyMTYwODQta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D"
+      ],
+      "categories": [
+        "Wine",
+        "Red wine",
+        "Spain",
+        "Balearic Islands"
+      ],
+      "price": 28.95,
+      "currency": "CHF",
+      "description": "An elegant Mallorca Callet red with red berries, sour cherry, Mediterranean herbs and subtle stony minerality.",
+      "stock": 150,
+      "producer": "Bodega Son Antem",
+      "vintage": 2024,
+      "size_cl": 75,
+      "source_listing_page": 1
+    },
+    {
+      "id": "1219573",
+      "title": "Cinque Noci Primitivo 2024 - Tagaro",
+      "url": "https://www.flaschenpost.ch/en/cinquenoci-primitivo_tagaro?_size=750&_vintage=2024",
+      "image_link": "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiIxNzlmNDk4NC03ODA3LTQyZjItYjg3My1hZWUyNTA1MmJlNWYucG5nIiwiYnVja2V0Ijoic3BpbmUtcHJvZHVjdC1pbWFnZXMtcHJvZCIsImVkaXRzIjp7InJlc2l6ZSI6eyJoZWlnaHQiOjgwMH0sInRyaW0iOjAuMX19",
+      "image_links": [
+        "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiIxNzlmNDk4NC03ODA3LTQyZjItYjg3My1hZWUyNTA1MmJlNWYucG5nIiwiYnVja2V0Ijoic3BpbmUtcHJvZHVjdC1pbWFnZXMtcHJvZCIsImVkaXRzIjp7InJlc2l6ZSI6eyJoZWlnaHQiOjgwMH0sInRyaW0iOjAuMX19"
+      ],
+      "categories": [
+        "Wine",
+        "Red wine",
+        "Italy",
+        "Puglia"
+      ],
+      "price": 15.95,
+      "currency": "CHF",
+      "description": "A rounded Primitivo from Puglia with dark fruit, oak complexity and well-integrated tannins.",
+      "stock": 150,
+      "producer": "Tagaro",
+      "vintage": 2024,
+      "size_cl": 75,
+      "source_listing_page": 1
+    },
+    {
+      "id": "1208958",
+      "title": "Viña Arana Gran Reserva DOC Rioja Colección privada 2016 - La Rioja Alta",
+      "url": "https://www.flaschenpost.ch/en/vina-arana-gran-reserva-coleccion-privada_la-rioja-alta?_size=750&_vintage=2016",
+      "image_link": "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vYTc1M2NmNGYtM2JkMC00ZjUxLTgzOTgtZTQ1YzA0MTRjMzE3LzE3ODk3MjU0MjIyNDAta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D",
+      "image_links": [
+        "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vYTc1M2NmNGYtM2JkMC00ZjUxLTgzOTgtZTQ1YzA0MTRjMzE3LzE3ODk3MjU0MjIyNDAta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D"
+      ],
+      "categories": [
+        "Wine",
+        "Red wine",
+        "Spain",
+        "Upper Ebro"
+      ],
+      "price": 43.95,
+      "currency": "CHF",
+      "description": "An elegant Rioja Gran Reserva with mature plum, tobacco, vanilla, leather and a silky, lingering finish.",
+      "stock": 150,
+      "producer": "La Rioja Alta",
+      "vintage": 2016,
+      "size_cl": 75,
+      "source_listing_page": 1
+    },
+    {
+      "id": "1221295",
+      "title": "Blum by Laus Rosado 2025 - Bodegas Laus",
+      "url": "https://www.flaschenpost.ch/en/blum-by-laus-rosado_bodegas-laus?_size=750&_vintage=2025",
+      "image_link": "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vYTc5ODdlZDktYmYzOS00NDdkLThiNjktNmUxZTFmZDg5MWQ2LzE3ODk3MTcwNzczNTIta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D",
+      "image_links": [
+        "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vYTc5ODdlZDktYmYzOS00NDdkLThiNjktNmUxZTFmZDg5MWQ2LzE3ODk3MTcwNzczNTIta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D"
+      ],
+      "categories": [
+        "Wine",
+        "Sparkling wine",
+        "Spain",
+        "Somontano"
+      ],
+      "price": 17.5,
+      "currency": "CHF",
+      "description": "A fresh, lightly coloured Spanish rosé frizzante with fine bubbles, strawberry, raspberry and bright fruit flavours.",
+      "stock": 150,
+      "producer": "Bodegas Laus",
+      "vintage": 2025,
+      "size_cl": 75,
+      "source_listing_page": 1
+    },
+    {
+      "id": "2002332",
+      "title": "Janu' Montepulciano D'Abruzzo DOC 2022 - Jasci & Marchesani",
+      "url": "https://www.flaschenpost.ch/en/janu-montepulciano-dabruzzo-doc?_packaging=Spezialverpackung&_size=750&_sku=2002332&_vintage=2022",
+      "image_link": "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vZTFjY2Y5ZjEtN2I0Mi00Mzk4LTg0N2ItODA1ZDk0NzExNjQ3LzE3ODk5NzQ4OTMyOTcta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D",
+      "image_links": [
+        "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vZTFjY2Y5ZjEtN2I0Mi00Mzk4LTg0N2ItODA1ZDk0NzExNjQ3LzE3ODk5NzQ4OTMyOTcta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D"
+      ],
+      "categories": [
+        "Wine",
+        "Red wine",
+        "Italy",
+        "Abbruzzi"
+      ],
+      "price": 28.95,
+      "currency": "CHF",
+      "description": "A characterful Abruzzo Montepulciano with cherry, plum, vanilla, dark chocolate and a rich, rounded palate.",
+      "stock": 150,
+      "producer": "Jasci & Marchesani",
+      "vintage": 2022,
+      "size_cl": 75,
+      "source_listing_page": 2
+    },
+    {
+      "id": "2001407",
+      "title": "Marqués de Whatever Crianza D.O. Valencia 2023 - Citizen Wine",
+      "url": "https://www.flaschenpost.ch/en/marques-de-whatever-crianza-do-valencia?_size=750&_vintage=2023",
+      "image_link": "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vZmFhZmMzNGMtMDY3My00M2U4LWEwMTAtOGI0ZmRkYTI3ZTRhLzE3ODI0ODE0ODI3Njgta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D",
+      "image_links": [
+        "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vZmFhZmMzNGMtMDY3My00M2U4LWEwMTAtOGI0ZmRkYTI3ZTRhLzE3ODI0ODE0ODI3Njgta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D"
+      ],
+      "categories": [
+        "Wine",
+        "Red wine",
+        "Spain",
+        "Levante"
+      ],
+      "price": 19.95,
+      "currency": "CHF",
+      "description": "An organic Valencian red combining dark berries, currant, pepper, vanilla, soft tannins and oak-aged spice.",
+      "stock": 150,
+      "producer": "Citizen Wine",
+      "vintage": 2023,
+      "size_cl": 75,
+      "source_listing_page": 2
+    },
+    {
+      "id": "1214435",
+      "title": "Sienta Blanche 2024 - Sienta",
+      "url": "https://www.flaschenpost.ch/en/sienta-blanche_sienta?_size=750&_vintage=2024",
+      "image_link": "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vOGUwZTQ5N2ItYjhlMy00OTlkLTliYmEtYTBiMjE2ZDJjZWZhLzE3ODk3MjUyMzc1NTYta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D",
+      "image_links": [
+        "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vOGUwZTQ5N2ItYjhlMy00OTlkLTliYmEtYTBiMjE2ZDJjZWZhLzE3ODk3MjUyMzc1NTYta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D"
+      ],
+      "categories": [
+        "Wine",
+        "White wine",
+        "Switzerland",
+        "Valais"
+      ],
+      "price": 19.5,
+      "currency": "CHF",
+      "description": "A fresh, floral Swiss white blend from Valais with citrus, green apple, minerality and lively acidity.",
+      "stock": 150,
+      "producer": "Sienta",
+      "vintage": 2024,
+      "size_cl": 75,
+      "source_listing_page": 2
+    },
+    {
+      "id": "2079335",
+      "title": "Vina Tondonia Tinto Reserva 2014 - Lopez de Heredia",
+      "url": "https://www.flaschenpost.ch/en/vina-tondonia-tinto-reserva_lopez-de-heredia?_size=750&_vintage=2014",
+      "image_link": "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJiNzdiMzc2Ni1iMWYzLTQyM2YtYTEzNi0xMmI2NjJkMzY3M2YucG5nIiwiYnVja2V0Ijoic3BpbmUtcHJvZHVjdC1pbWFnZXMtcHJvZCIsImVkaXRzIjp7InJlc2l6ZSI6eyJoZWlnaHQiOjgwMH0sInRyaW0iOjAuMX19",
+      "image_links": [
+        "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJiNzdiMzc2Ni1iMWYzLTQyM2YtYTEzNi0xMmI2NjJkMzY3M2YucG5nIiwiYnVja2V0Ijoic3BpbmUtcHJvZHVjdC1pbWFnZXMtcHJvZCIsImVkaXRzIjp7InJlc2l6ZSI6eyJoZWlnaHQiOjgwMH0sInRyaW0iOjAuMX19"
+      ],
+      "categories": [
+        "Wine",
+        "Red wine",
+        "Spain",
+        "Upper Ebro"
+      ],
+      "price": 45.95,
+      "currency": "CHF",
+      "description": "A traditional Rioja Reserva with mature red fruit, layered spices, fresh acidity and a long, silky finish.",
+      "stock": 150,
+      "producer": "Lopez de Heredia",
+      "vintage": 2014,
+      "size_cl": 75,
+      "source_listing_page": 2
+    },
+    {
+      "id": "1219006",
+      "title": "FLORA Rosé IGP 2025 - Château l'Escarelle",
+      "url": "https://www.flaschenpost.ch/en/flora-rose-igp_chateau-l-escarelle?_size=750&_vintage=2025",
+      "image_link": "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJiZmZkNGUwNi04NzQ0LTQwYzYtYmUwYi00MTlkZWU5MzkxNGUucG5nIiwiYnVja2V0Ijoic3BpbmUtcHJvZHVjdC1pbWFnZXMtcHJvZCIsImVkaXRzIjp7InJlc2l6ZSI6eyJoZWlnaHQiOjgwMH0sInRyaW0iOjAuMX19",
+      "image_links": [
+        "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJiZmZkNGUwNi04NzQ0LTQwYzYtYmUwYi00MTlkZWU5MzkxNGUucG5nIiwiYnVja2V0Ijoic3BpbmUtcHJvZHVjdC1pbWFnZXMtcHJvZCIsImVkaXRzIjp7InJlc2l6ZSI6eyJoZWlnaHQiOjgwMH0sInRyaW0iOjAuMX19"
+      ],
+      "categories": [
+        "Wine",
+        "Rosé wine",
+        "France",
+        "Provence"
+      ],
+      "price": 16.95,
+      "currency": "CHF",
+      "description": "A refreshing organic Provence rosé with raspberry, redcurrant, delicate floral notes and light fruit character.",
+      "stock": 150,
+      "producer": "Château l'Escarelle",
+      "vintage": 2025,
+      "size_cl": 75,
+      "source_listing_page": 2
+    },
+    {
+      "id": "2001409",
+      "title": "Less is More Tinto 2025 - Citizen Wine",
+      "url": "https://www.flaschenpost.ch/en/less-is-more-tinto?_size=750&_vintage=2025",
+      "image_link": "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vNWMyNGFjOTAtZGVhOS00ZGUzLTk4NDctNmI3MmZjNmJhOTI2LzE3ODI0ODE0Mjg5MjYta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D",
+      "image_links": [
+        "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vNWMyNGFjOTAtZGVhOS00ZGUzLTk4NDctNmI3MmZjNmJhOTI2LzE3ODI0ODE0Mjg5MjYta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D"
+      ],
+      "categories": [
+        "Wine",
+        "Red wine",
+        "Spain",
+        "Levante"
+      ],
+      "price": 16.95,
+      "currency": "CHF",
+      "description": "An accessible organic Spanish red with cherry, currant, blackberry, floral accents and vibrant acidity.",
+      "stock": 150,
+      "producer": "Citizen Wine",
+      "vintage": 2025,
+      "size_cl": 75,
+      "source_listing_page": 2
+    },
+    {
+      "id": "1219929",
+      "title": "Primitivo di Manduria DOC Limited Edition 2022 - Cantine Pliniana Manduria",
+      "url": "https://www.flaschenpost.ch/en/manduria-doc-primitivo-limited-edition_cantina-pliniana-manduria?_size=750&_vintage=2022",
+      "image_link": "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJmOTk4NTgyOS05OGJiLTQyNmItYjIyZC0xZTI2Y2M5MDg5YWYucG5nIiwiYnVja2V0Ijoic3BpbmUtcHJvZHVjdC1pbWFnZXMtcHJvZCIsImVkaXRzIjp7InJlc2l6ZSI6eyJoZWlnaHQiOjgwMH0sInRyaW0iOjAuMX19",
+      "image_links": [
+        "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJmOTk4NTgyOS05OGJiLTQyNmItYjIyZC0xZTI2Y2M5MDg5YWYucG5nIiwiYnVja2V0Ijoic3BpbmUtcHJvZHVjdC1pbWFnZXMtcHJvZCIsImVkaXRzIjp7InJlc2l6ZSI6eyJoZWlnaHQiOjgwMH0sInRyaW0iOjAuMX19"
+      ],
+      "categories": [
+        "Wine",
+        "Red wine",
+        "Italy",
+        "Puglia"
+      ],
+      "price": 27.95,
+      "currency": "CHF",
+      "description": "A dense, velvety Primitivo di Manduria with ripe cherry, plum, dried fig, dark chocolate and soft spice.",
+      "stock": 150,
+      "producer": "Cantine Pliniana Manduria",
+      "vintage": 2022,
+      "size_cl": 75,
+      "source_listing_page": 2
+    },
+    {
+      "id": "1213553",
+      "title": "Gravità Primitivo di Manduria Riserva DOC 2018 - Tagaro",
+      "url": "https://www.flaschenpost.ch/en/gravita-gold-primitivo-di-manduria-riserva-dop_tagaro?_size=750&_vintage=2018",
+      "image_link": "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiI5ZmM5NzI1Yy1jOGQyLTRjODQtYWY3ZS0wYmQxMDY5NDA1MTIucG5nIiwiYnVja2V0Ijoic3BpbmUtcHJvZHVjdC1pbWFnZXMtcHJvZCIsImVkaXRzIjp7InJlc2l6ZSI6eyJoZWlnaHQiOjgwMH0sInRyaW0iOjAuMX19",
+      "image_links": [
+        "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiI5ZmM5NzI1Yy1jOGQyLTRjODQtYWY3ZS0wYmQxMDY5NDA1MTIucG5nIiwiYnVja2V0Ijoic3BpbmUtcHJvZHVjdC1pbWFnZXMtcHJvZCIsImVkaXRzIjp7InJlc2l6ZSI6eyJoZWlnaHQiOjgwMH0sInRyaW0iOjAuMX19"
+      ],
+      "categories": [
+        "Wine",
+        "Red wine",
+        "Italy",
+        "Puglia"
+      ],
+      "price": 29.95,
+      "currency": "CHF",
+      "description": "A balanced, oak-aged Primitivo with ripe plum, blackberry, vanilla, liquorice and elegant tannins.",
+      "stock": 150,
+      "producer": "Tagaro",
+      "vintage": 2018,
+      "size_cl": 75,
+      "source_listing_page": 2
+    },
+    {
+      "id": "1219857",
+      "title": "Juan Gil 110th Anniversary 1916 - 2026 2023 - Bodegas Juan Gil",
+      "url": "https://www.flaschenpost.ch/en/juan-gil-110th-anniversary-1916-2026_bodegas-juan-gil?_size=750&_vintage=2023",
+      "image_link": "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vYjMyZTFiYTUtODYyZS00OGJmLWE5ODktMmM4ZmZmMzQzMTZlLzE3ODk3MTYxMjQ2MDUta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D",
+      "image_links": [
+        "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vYjMyZTFiYTUtODYyZS00OGJmLWE5ODktMmM4ZmZmMzQzMTZlLzE3ODk3MTYxMjQ2MDUta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D"
+      ],
+      "categories": [
+        "Wine",
+        "Red wine",
+        "Spain",
+        "Levante"
+      ],
+      "price": 31.95,
+      "currency": "CHF",
+      "description": "A celebratory Monastrell from Jumilla with cassis, blueberries, cocoa, herbs and a refined long finish.",
+      "stock": 150,
+      "producer": "Bodegas Juan Gil",
+      "vintage": 2023,
+      "size_cl": 75,
+      "source_listing_page": 2
+    },
+    {
+      "id": "1222167",
+      "title": "Rosso Toscana IGT Sant`Ippolito 2023 - Cantine Leonardo da Vinci",
+      "url": "https://www.flaschenpost.ch/en/santippolito-rosso-toscana-igt-villa-da-vinci_cantine-leonardo-da-vinci?_size=750&_vintage=2023",
+      "image_link": "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vNTE4OWM3NjItZjU4OC00MmMxLTlkY2EtYWFmYTFiMDE5NDI1LzE3ODk3MjU5MTY3NTQta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D",
+      "image_links": [
+        "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiJwaW0vNTE4OWM3NjItZjU4OC00MmMxLTlkY2EtYWFmYTFiMDE5NDI1LzE3ODk3MjU5MTY3NTQta3J1ZzE3MS5wbmciLCJidWNrZXQiOiJzcGluZS1wcm9kdWN0LWltYWdlcy1wcm9kIiwiZWRpdHMiOnsicmVzaXplIjp7ImhlaWdodCI6ODAwfSwidHJpbSI6MC4xfX0%3D"
+      ],
+      "categories": [
+        "Wine",
+        "Red wine",
+        "Italy",
+        "Tuscany"
+      ],
+      "price": 23.95,
+      "currency": "CHF",
+      "description": "A generous Tuscan red with blackberry, cassis, cherry, cocoa, liquorice and a soft lingering finish.",
+      "stock": 150,
+      "producer": "Cantine Leonardo da Vinci",
+      "vintage": 2023,
+      "size_cl": 75,
+      "source_listing_page": 2
+    },
+    {
+      "id": "1206707",
+      "title": "Sei Caselle Negromaro 2023 - Tagaro",
+      "url": "https://www.flaschenpost.ch/en/sei-caselle-negromaro_tagaro?_size=750&_vintage=2023",
+      "image_link": "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiI1Yjk4ZDdlZi0wODBmLTRhYTQtYjE0MC04ZTkxZmM0NTJiZjkucG5nIiwiYnVja2V0Ijoic3BpbmUtcHJvZHVjdC1pbWFnZXMtcHJvZCIsImVkaXRzIjp7InJlc2l6ZSI6eyJoZWlnaHQiOjgwMH0sInRyaW0iOjAuMX19",
+      "image_links": [
+        "https://d2uqzpf6d2kb73.cloudfront.net/eyJrZXkiOiI1Yjk4ZDdlZi0wODBmLTRhYTQtYjE0MC04ZTkxZmM0NTJiZjkucG5nIiwiYnVja2V0Ijoic3BpbmUtcHJvZHVjdC1pbWFnZXMtcHJvZCIsImVkaXRzIjp7InJlc2l6ZSI6eyJoZWlnaHQiOjgwMH0sInRyaW0iOjAuMX19"
+      ],
+      "categories": [
+        "Wine",
+        "Red wine",
+        "Italy",
+        "Puglia"
+      ],
+      "price": 15.95,
+      "currency": "CHF",
+      "description": "A rich, spicy Negroamaro from six Salento plots with ripe red fruit, black pepper, liquorice and soft tannins.",
+      "stock": 150,
+      "producer": "Tagaro",
+      "vintage": 2023,
+      "size_cl": 75,
+      "source_listing_page": 2
+    }
+  ]
+}
