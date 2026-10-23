@@ -1,4 +1,11 @@
 {
+  "brand": "Flaschenpost Services AG",
+  "currency": "CHF",
+  "stock_note": "Stock of 150 is an assumed default, not live availability.",
+  "source_urls": [
+    "https://www.flaschenpost.ch/en/wine",
+    "https://www.flaschenpost.ch/en/wine?page=2"
+  ],
   "products": [
     {
       "id": "1201292",
