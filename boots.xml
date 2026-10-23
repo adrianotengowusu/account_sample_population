@@ -1,0 +1,691 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>Boots UK - Google Shopping Product Feed (SAMPLE)</title>
+    <link>https://www.boots.com</link>
+    <description>Illustrative Google Merchant Center primary feed for boots.com. Product IDs, GTINs, prices, URLs and images are sample data.</description>
+    <item>
+      <g:id>10289751</g:id>
+      <g:title>No7 Protect &amp; Perfect Intense Advanced Day Cream SPF30 50ml</g:title>
+      <g:description>An intensive anti-ageing day cream from No7's Protect &amp; Perfect Intense Advanced range, powered by a peptide complex to visibly reduce the appearance of deep lines and wrinkles. Broad-spectrum SPF30 helps protect against daily UV exposure. A lightweight, fast-absorbing texture that sits well under make-up. Dermatologically tested and suitable for all skin types.</g:description>
+      <g:link>https://www.boots.com/no7-protect-and-perfect-intense-advanced-day-cream-spf30-50ml-10289751</g:link>
+      <g:image_link>https://boots.scene7.com/is/image/Boots/10289751?op_sharpen=1</g:image_link>
+      <g:additional_image_link>https://boots.scene7.com/is/image/Boots/10289751_2?op_sharpen=1</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>31.00 GBP</g:price>
+      <g:loyalty_program>
+        <g:program_label>boots_advantage_card</g:program_label>
+        <g:tier_label>member</g:tier_label>
+        <g:loyalty_points>124</g:loyalty_points>
+      </g:loyalty_program>
+      <g:brand>No7</g:brand>
+      <g:gtin>5000167314205</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care &gt; Lotion &amp; Moisturizer</g:google_product_category>
+      <g:product_type>Beauty &amp; Skincare &gt; Skincare &gt; Moisturisers &gt; Day Cream</g:product_type>
+      <g:unit_pricing_measure>50ml</g:unit_pricing_measure>
+      <g:unit_pricing_base_measure>100ml</g:unit_pricing_base_measure>
+      <g:product_highlight>Visibly reduces the appearance of deep lines and wrinkles</g:product_highlight>
+      <g:product_highlight>Broad-spectrum SPF30 for daily protection</g:product_highlight>
+      <g:product_highlight>Lightweight texture that works under make-up</g:product_highlight>
+      <g:product_detail>
+        <g:section_name>General</g:section_name>
+        <g:attribute_name>Skin type</g:attribute_name>
+        <g:attribute_value>All skin types</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:section_name>General</g:section_name>
+        <g:attribute_name>SPF</g:attribute_name>
+        <g:attribute_value>30</g:attribute_value>
+      </g:product_detail>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+        <g:price>0.00 GBP</g:price>
+      </g:shipping>
+      <g:pickup_method>buy</g:pickup_method>
+      <g:pickup_sla>next_day</g:pickup_sla>
+      <g:promotion_id>NO7-2ND-HALF-PRICE-Q4</g:promotion_id>
+      <g:custom_label_0>own_brand</g:custom_label_0>
+      <g:custom_label_1>no7_2nd_half_price</g:custom_label_1>
+      <g:custom_label_2>15_to_50</g:custom_label_2>
+      <g:custom_label_3>skincare</g:custom_label_3>
+      <g:custom_label_4>evergreen</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>10301455</g:id>
+      <g:title>No7 Future Renew Damage Reversal Serum 30ml</g:title>
+      <g:description>No7's most advanced serum, with a pentapeptide complex designed to target visible signs of skin damage including lines, uneven tone and loss of firmness. Apply morning and night to cleansed skin before moisturiser. Suitable for all skin types.</g:description>
+      <g:link>https://www.boots.com/no7-future-renew-damage-reversal-serum-30ml-10301455</g:link>
+      <g:image_link>https://boots.scene7.com/is/image/Boots/10301455?op_sharpen=1</g:image_link>
+      <g:additional_image_link>https://boots.scene7.com/is/image/Boots/10301455_2?op_sharpen=1</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>47.50 GBP</g:price>
+      <g:loyalty_program>
+        <g:program_label>boots_advantage_card</g:program_label>
+        <g:tier_label>member</g:tier_label>
+        <g:price>42.75 GBP</g:price>
+        <g:loyalty_points>168</g:loyalty_points>
+      </g:loyalty_program>
+      <g:brand>No7</g:brand>
+      <g:gtin>5000167355888</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care &gt; Anti-Aging Skin Care Products</g:google_product_category>
+      <g:product_type>Beauty &amp; Skincare &gt; Skincare &gt; Serums</g:product_type>
+      <g:unit_pricing_measure>30ml</g:unit_pricing_measure>
+      <g:unit_pricing_base_measure>100ml</g:unit_pricing_base_measure>
+      <g:product_highlight>Targets visible signs of skin damage</g:product_highlight>
+      <g:product_highlight>Use morning and night</g:product_highlight>
+      <g:product_highlight>Advantage Card Price for members</g:product_highlight>
+      <g:product_detail>
+        <g:section_name>General</g:section_name>
+        <g:attribute_name>Skin type</g:attribute_name>
+        <g:attribute_value>All skin types</g:attribute_value>
+      </g:product_detail>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+        <g:price>0.00 GBP</g:price>
+      </g:shipping>
+      <g:pickup_method>buy</g:pickup_method>
+      <g:pickup_sla>next_day</g:pickup_sla>
+      <g:custom_label_0>own_brand</g:custom_label_0>
+      <g:custom_label_1>advantage_price</g:custom_label_1>
+      <g:custom_label_2>15_to_50</g:custom_label_2>
+      <g:custom_label_3>skincare</g:custom_label_3>
+      <g:custom_label_4>evergreen</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>10322109</g:id>
+      <g:title>No7 Lift &amp; Luminate Triple Action Serum Foundation SPF15 30ml - Cool Ivory</g:title>
+      <g:description>A lightweight serum foundation that combines medium, buildable coverage with skincare benefits to visibly smooth and brighten skin over time. SPF15 provides everyday sun protection. A natural, luminous finish that lasts all day. Available in a wide range of shades.</g:description>
+      <g:link>https://www.boots.com/no7-lift-and-luminate-triple-action-serum-foundation-spf15-30ml-cool-ivory-10322109</g:link>
+      <g:image_link>https://boots.scene7.com/is/image/Boots/10322109?op_sharpen=1</g:image_link>
+      <g:additional_image_link>https://boots.scene7.com/is/image/Boots/10322109_2?op_sharpen=1</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>22.95 GBP</g:price>
+      <g:loyalty_program>
+        <g:program_label>boots_advantage_card</g:program_label>
+        <g:tier_label>member</g:tier_label>
+        <g:loyalty_points>88</g:loyalty_points>
+      </g:loyalty_program>
+      <g:brand>No7</g:brand>
+      <g:gtin>5000167391046</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Makeup &gt; Face Makeup &gt; Foundations &amp; Concealers</g:google_product_category>
+      <g:product_type>Beauty &amp; Skincare &gt; Make-up &gt; Face &gt; Foundation</g:product_type>
+      <g:item_group_id>10322108</g:item_group_id>
+      <g:color>Cool Ivory</g:color>
+      <g:unit_pricing_measure>30ml</g:unit_pricing_measure>
+      <g:unit_pricing_base_measure>100ml</g:unit_pricing_base_measure>
+      <g:product_highlight>Medium, buildable coverage</g:product_highlight>
+      <g:product_highlight>Serum formula with skincare benefits</g:product_highlight>
+      <g:product_highlight>SPF15</g:product_highlight>
+      <g:product_detail>
+        <g:section_name>General</g:section_name>
+        <g:attribute_name>Finish</g:attribute_name>
+        <g:attribute_value>Luminous</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:section_name>General</g:section_name>
+        <g:attribute_name>Coverage</g:attribute_name>
+        <g:attribute_value>Medium, buildable</g:attribute_value>
+      </g:product_detail>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+        <g:price>4.50 GBP</g:price>
+      </g:shipping>
+      <g:pickup_method>buy</g:pickup_method>
+      <g:pickup_sla>next_day</g:pickup_sla>
+      <g:promotion_id>NO7-2ND-HALF-PRICE-Q4</g:promotion_id>
+      <g:custom_label_0>own_brand</g:custom_label_0>
+      <g:custom_label_1>no7_2nd_half_price</g:custom_label_1>
+      <g:custom_label_2>15_to_50</g:custom_label_2>
+      <g:custom_label_3>makeup</g:custom_label_3>
+      <g:custom_label_4>evergreen</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>10322110</g:id>
+      <g:title>No7 Lift &amp; Luminate Triple Action Serum Foundation SPF15 30ml - Warm Beige</g:title>
+      <g:description>A lightweight serum foundation that combines medium, buildable coverage with skincare benefits to visibly smooth and brighten skin over time. SPF15 provides everyday sun protection. A natural, luminous finish that lasts all day. Available in a wide range of shades.</g:description>
+      <g:link>https://www.boots.com/no7-lift-and-luminate-triple-action-serum-foundation-spf15-30ml-warm-beige-10322110</g:link>
+      <g:image_link>https://boots.scene7.com/is/image/Boots/10322110?op_sharpen=1</g:image_link>
+      <g:additional_image_link>https://boots.scene7.com/is/image/Boots/10322110_2?op_sharpen=1</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>22.95 GBP</g:price>
+      <g:loyalty_program>
+        <g:program_label>boots_advantage_card</g:program_label>
+        <g:tier_label>member</g:tier_label>
+        <g:loyalty_points>88</g:loyalty_points>
+      </g:loyalty_program>
+      <g:brand>No7</g:brand>
+      <g:gtin>5000167391114</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Makeup &gt; Face Makeup &gt; Foundations &amp; Concealers</g:google_product_category>
+      <g:product_type>Beauty &amp; Skincare &gt; Make-up &gt; Face &gt; Foundation</g:product_type>
+      <g:item_group_id>10322108</g:item_group_id>
+      <g:color>Warm Beige</g:color>
+      <g:unit_pricing_measure>30ml</g:unit_pricing_measure>
+      <g:unit_pricing_base_measure>100ml</g:unit_pricing_base_measure>
+      <g:product_highlight>Medium, buildable coverage</g:product_highlight>
+      <g:product_highlight>Serum formula with skincare benefits</g:product_highlight>
+      <g:product_highlight>SPF15</g:product_highlight>
+      <g:product_detail>
+        <g:section_name>General</g:section_name>
+        <g:attribute_name>Finish</g:attribute_name>
+        <g:attribute_value>Luminous</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:section_name>General</g:section_name>
+        <g:attribute_name>Coverage</g:attribute_name>
+        <g:attribute_value>Medium, buildable</g:attribute_value>
+      </g:product_detail>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+        <g:price>4.50 GBP</g:price>
+      </g:shipping>
+      <g:pickup_method>buy</g:pickup_method>
+      <g:pickup_sla>next_day</g:pickup_sla>
+      <g:promotion_id>NO7-2ND-HALF-PRICE-Q4</g:promotion_id>
+      <g:custom_label_0>own_brand</g:custom_label_0>
+      <g:custom_label_1>no7_2nd_half_price</g:custom_label_1>
+      <g:custom_label_2>15_to_50</g:custom_label_2>
+      <g:custom_label_3>makeup</g:custom_label_3>
+      <g:custom_label_4>evergreen</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>10267543</g:id>
+      <g:title>Soap &amp; Glory The Righteous Butter Moisturising Body Butter 300ml</g:title>
+      <g:description>Soap &amp; Glory's cult body butter with shea butter, cocoa butter and aloe vera to deeply moisturise dry skin. Scented with the signature Original Pink fragrance. Rich yet fast-absorbing for soft, smooth skin all day.</g:description>
+      <g:link>https://www.boots.com/soap-and-glory-the-righteous-butter-moisturising-body-butter-300ml-10267543</g:link>
+      <g:image_link>https://boots.scene7.com/is/image/Boots/10267543?op_sharpen=1</g:image_link>
+      <g:additional_image_link>https://boots.scene7.com/is/image/Boots/10267543_2?op_sharpen=1</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>12.50 GBP</g:price>
+      <g:loyalty_program>
+        <g:program_label>boots_advantage_card</g:program_label>
+        <g:tier_label>member</g:tier_label>
+        <g:loyalty_points>48</g:loyalty_points>
+      </g:loyalty_program>
+      <g:brand>Soap &amp; Glory</g:brand>
+      <g:gtin>5000167262179</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care &gt; Lotion &amp; Moisturizer</g:google_product_category>
+      <g:product_type>Beauty &amp; Skincare &gt; Bath &amp; Body &gt; Body Moisturisers</g:product_type>
+      <g:unit_pricing_measure>300ml</g:unit_pricing_measure>
+      <g:unit_pricing_base_measure>100ml</g:unit_pricing_base_measure>
+      <g:product_highlight>Shea butter, cocoa butter and aloe vera</g:product_highlight>
+      <g:product_highlight>Signature Original Pink scent</g:product_highlight>
+      <g:product_highlight>Fast-absorbing, non-greasy finish</g:product_highlight>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+        <g:price>4.50 GBP</g:price>
+      </g:shipping>
+      <g:pickup_method>buy</g:pickup_method>
+      <g:pickup_sla>next_day</g:pickup_sla>
+      <g:promotion_id>BOOTS-3FOR2-MIXMATCH-Q4</g:promotion_id>
+      <g:custom_label_0>own_brand</g:custom_label_0>
+      <g:custom_label_1>3for2</g:custom_label_1>
+      <g:custom_label_2>under_15</g:custom_label_2>
+      <g:custom_label_3>bath_body</g:custom_label_3>
+      <g:custom_label_4>evergreen</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>10334211</g:id>
+      <g:title>Soap &amp; Glory Original Pink Bath &amp; Body Christmas Gift Set</g:title>
+      <g:description>A festive gift set of Soap &amp; Glory favourites in the signature Original Pink fragrance, including a shower gel, body butter and hand cream. Presented in a gift-ready box, perfect for Christmas, birthdays and Secret Santa.</g:description>
+      <g:link>https://www.boots.com/soap-and-glory-original-pink-bath-and-body-christmas-gift-set-10334211</g:link>
+      <g:image_link>https://boots.scene7.com/is/image/Boots/10334211?op_sharpen=1</g:image_link>
+      <g:additional_image_link>https://boots.scene7.com/is/image/Boots/10334211_2?op_sharpen=1</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>25.00 GBP</g:price>
+      <g:loyalty_program>
+        <g:program_label>boots_advantage_card</g:program_label>
+        <g:tier_label>member</g:tier_label>
+        <g:loyalty_points>100</g:loyalty_points>
+      </g:loyalty_program>
+      <g:brand>Soap &amp; Glory</g:brand>
+      <g:gtin>5000167449037</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Bath &amp; Body &gt; Bath &amp; Body Gift Sets</g:google_product_category>
+      <g:product_type>Gifts &gt; Christmas Gifts &gt; Gift Sets</g:product_type>
+      <g:is_bundle>yes</g:is_bundle>
+      <g:product_highlight>Three full-size Original Pink favourites</g:product_highlight>
+      <g:product_highlight>Gift-ready box</g:product_highlight>
+      <g:product_highlight>Ideal for Secret Santa</g:product_highlight>
+      <g:product_detail>
+        <g:section_name>Contents</g:section_name>
+        <g:attribute_name>Items included</g:attribute_name>
+        <g:attribute_value>Shower gel, body butter, hand cream</g:attribute_value>
+      </g:product_detail>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+        <g:price>4.50 GBP</g:price>
+      </g:shipping>
+      <g:pickup_method>buy</g:pickup_method>
+      <g:pickup_sla>next_day</g:pickup_sla>
+      <g:promotion_id>BOOTS-3FOR2-MIXMATCH-Q4</g:promotion_id>
+      <g:custom_label_0>own_brand</g:custom_label_0>
+      <g:custom_label_1>3for2</g:custom_label_1>
+      <g:custom_label_2>15_to_50</g:custom_label_2>
+      <g:custom_label_3>gifts</g:custom_label_3>
+      <g:custom_label_4>christmas_gifting</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>10318876</g:id>
+      <g:title>Boots Ingredients Hyaluronic Acid Serum 30ml</g:title>
+      <g:description>A simple, effective serum from Boots Ingredients with hyaluronic acid to attract and hold moisture for plumper, smoother-looking skin. Lightweight and quick-absorbing, it layers easily under moisturiser and SPF. Vegan and suitable for all skin types.</g:description>
+      <g:link>https://www.boots.com/boots-ingredients-hyaluronic-acid-serum-30ml-10318876</g:link>
+      <g:image_link>https://boots.scene7.com/is/image/Boots/10318876?op_sharpen=1</g:image_link>
+      <g:additional_image_link>https://boots.scene7.com/is/image/Boots/10318876_2?op_sharpen=1</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>5.00 GBP</g:price>
+      <g:loyalty_program>
+        <g:program_label>boots_advantage_card</g:program_label>
+        <g:tier_label>member</g:tier_label>
+        <g:loyalty_points>20</g:loyalty_points>
+      </g:loyalty_program>
+      <g:brand>Boots Ingredients</g:brand>
+      <g:gtin>5000167412109</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care &gt; Lotion &amp; Moisturizer</g:google_product_category>
+      <g:product_type>Beauty &amp; Skincare &gt; Skincare &gt; Serums</g:product_type>
+      <g:unit_pricing_measure>30ml</g:unit_pricing_measure>
+      <g:unit_pricing_base_measure>100ml</g:unit_pricing_base_measure>
+      <g:product_highlight>Hyaluronic acid for hydration</g:product_highlight>
+      <g:product_highlight>Vegan formula</g:product_highlight>
+      <g:product_highlight>Layers under moisturiser and SPF</g:product_highlight>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+        <g:price>4.50 GBP</g:price>
+      </g:shipping>
+      <g:pickup_method>buy</g:pickup_method>
+      <g:pickup_sla>next_day</g:pickup_sla>
+      <g:custom_label_0>own_brand</g:custom_label_0>
+      <g:custom_label_1>none</g:custom_label_1>
+      <g:custom_label_2>under_15</g:custom_label_2>
+      <g:custom_label_3>skincare</g:custom_label_3>
+      <g:custom_label_4>evergreen</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>10226098</g:id>
+      <g:title>CeraVe Moisturising Cream for Dry to Very Dry Skin 454g</g:title>
+      <g:description>Developed with dermatologists, CeraVe Moisturising Cream contains three essential ceramides and hyaluronic acid to help restore the skin's protective barrier and provide 24-hour hydration. Fragrance-free and non-comedogenic, suitable for face and body.</g:description>
+      <g:link>https://www.boots.com/cerave-moisturising-cream-for-dry-to-very-dry-skin-454g-10226098</g:link>
+      <g:image_link>https://boots.scene7.com/is/image/Boots/10226098?op_sharpen=1</g:image_link>
+      <g:additional_image_link>https://boots.scene7.com/is/image/Boots/10226098_2?op_sharpen=1</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>19.50 GBP</g:price>
+      <g:loyalty_program>
+        <g:program_label>boots_advantage_card</g:program_label>
+        <g:tier_label>member</g:tier_label>
+        <g:loyalty_points>76</g:loyalty_points>
+      </g:loyalty_program>
+      <g:brand>CeraVe</g:brand>
+      <g:gtin>3337875611428</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care &gt; Lotion &amp; Moisturizer</g:google_product_category>
+      <g:product_type>Beauty &amp; Skincare &gt; Skincare &gt; Moisturisers &gt; Body &amp; Face Creams</g:product_type>
+      <g:unit_pricing_measure>454g</g:unit_pricing_measure>
+      <g:unit_pricing_base_measure>100g</g:unit_pricing_base_measure>
+      <g:product_highlight>Three essential ceramides</g:product_highlight>
+      <g:product_highlight>24-hour hydration</g:product_highlight>
+      <g:product_highlight>Fragrance-free and non-comedogenic</g:product_highlight>
+      <g:product_detail>
+        <g:section_name>General</g:section_name>
+        <g:attribute_name>Skin type</g:attribute_name>
+        <g:attribute_value>Dry to very dry</g:attribute_value>
+      </g:product_detail>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+        <g:price>4.50 GBP</g:price>
+      </g:shipping>
+      <g:pickup_method>buy</g:pickup_method>
+      <g:pickup_sla>next_day</g:pickup_sla>
+      <g:promotion_id>BOOTS-3FOR2-MIXMATCH-Q4</g:promotion_id>
+      <g:custom_label_0>third_party</g:custom_label_0>
+      <g:custom_label_1>3for2</g:custom_label_1>
+      <g:custom_label_2>15_to_50</g:custom_label_2>
+      <g:custom_label_3>skincare</g:custom_label_3>
+      <g:custom_label_4>evergreen</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>10311247</g:id>
+      <g:title>La Roche-Posay Anthelios UVMune 400 Invisible Fluid SPF50+ 50ml</g:title>
+      <g:description>Very high protection SPF50+ fluid with UVMune 400 filter technology, offering protection against UVB, UVA and ultra-long UVA rays. An invisible, non-greasy finish that is water resistant. Tested on sensitive skin and suitable for daily use on the face.</g:description>
+      <g:link>https://www.boots.com/la-roche-posay-anthelios-uvmune-400-invisible-fluid-spf50-plus-50ml-10311247</g:link>
+      <g:image_link>https://boots.scene7.com/is/image/Boots/10311247?op_sharpen=1</g:image_link>
+      <g:additional_image_link>https://boots.scene7.com/is/image/Boots/10311247_2?op_sharpen=1</g:additional_image_link>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>22.00 GBP</g:price>
+      <g:loyalty_program>
+        <g:program_label>boots_advantage_card</g:program_label>
+        <g:tier_label>member</g:tier_label>
+        <g:loyalty_points>88</g:loyalty_points>
+      </g:loyalty_program>
+      <g:brand>La Roche-Posay</g:brand>
+      <g:gtin>3337875805339</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care &gt; Sunscreen</g:google_product_category>
+      <g:product_type>Beauty &amp; Skincare &gt; Suncare &gt; Face Sun Protection</g:product_type>
+      <g:unit_pricing_measure>50ml</g:unit_pricing_measure>
+      <g:unit_pricing_base_measure>100ml</g:unit_pricing_base_measure>
+      <g:product_highlight>SPF50+ very high protection</g:product_highlight>
+      <g:product_highlight>Invisible, non-greasy finish</g:product_highlight>
+      <g:product_highlight>Suitable for sensitive skin</g:product_highlight>
+      <g:product_detail>
+        <g:section_name>General</g:section_name>
+        <g:attribute_name>SPF</g:attribute_name>
+        <g:attribute_value>50+</g:attribute_value>
+      </g:product_detail>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+        <g:price>4.50 GBP</g:price>
+      </g:shipping>
+      <g:custom_label_0>third_party</g:custom_label_0>
+      <g:custom_label_1>none</g:custom_label_1>
+      <g:custom_label_2>15_to_50</g:custom_label_2>
+      <g:custom_label_3>suncare</g:custom_label_3>
+      <g:custom_label_4>summer_suncare</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>10308934</g:id>
+      <g:title>Oral-B iO Series 5 Electric Toothbrush - Matt Black</g:title>
+      <g:description>Oral-B iO Series 5 electric toothbrush with magnetic drive technology and micro-vibrations for a gentle yet thorough clean. A smart pressure sensor, 5 cleaning modes and a 2-minute timer help you brush better every day. Connects to the Oral-B app for personalised guidance. Includes 1 brush head and charger.</g:description>
+      <g:link>https://www.boots.com/oral-b-io-series-5-electric-toothbrush-matt-black-10308934</g:link>
+      <g:image_link>https://boots.scene7.com/is/image/Boots/10308934?op_sharpen=1</g:image_link>
+      <g:additional_image_link>https://boots.scene7.com/is/image/Boots/10308934_2?op_sharpen=1</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>100.00 GBP</g:price>
+      <g:sale_price>79.99 GBP</g:sale_price>
+      <g:sale_price_effective_date>2026-11-20T00:00:00Z/2026-11-30T23:59:59Z</g:sale_price_effective_date>
+      <g:loyalty_program>
+        <g:program_label>boots_advantage_card</g:program_label>
+        <g:tier_label>member</g:tier_label>
+        <g:loyalty_points>400</g:loyalty_points>
+      </g:loyalty_program>
+      <g:brand>Oral-B</g:brand>
+      <g:gtin>4210201437727</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Oral Care &gt; Toothbrushes</g:google_product_category>
+      <g:product_type>Electrical &gt; Electric Toothbrushes</g:product_type>
+      <g:color>Matt Black</g:color>
+      <g:product_highlight>Smart pressure sensor</g:product_highlight>
+      <g:product_highlight>5 cleaning modes</g:product_highlight>
+      <g:product_highlight>Connects to the Oral-B app</g:product_highlight>
+      <g:product_detail>
+        <g:section_name>Technical</g:section_name>
+        <g:attribute_name>Battery</g:attribute_name>
+        <g:attribute_value>Rechargeable lithium-ion</g:attribute_value>
+      </g:product_detail>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+        <g:price>0.00 GBP</g:price>
+      </g:shipping>
+      <g:pickup_method>buy</g:pickup_method>
+      <g:pickup_sla>next_day</g:pickup_sla>
+      <g:promotion_id>BF26-ELECTRICAL</g:promotion_id>
+      <g:custom_label_0>third_party</g:custom_label_0>
+      <g:custom_label_1>black_friday</g:custom_label_1>
+      <g:custom_label_2>50_plus</g:custom_label_2>
+      <g:custom_label_3>electrical</g:custom_label_3>
+      <g:custom_label_4>christmas_gifting</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>10276620</g:id>
+      <g:title>Dyson Supersonic Hair Dryer - Nickel/Copper</g:title>
+      <g:description>The Dyson Supersonic hair dryer uses intelligent heat control to measure air temperature many times a second, helping protect hair from extreme heat damage. Fast, focused airflow for quick drying and controlled styling. Includes magnetic styling attachments for different hair types and styles.</g:description>
+      <g:link>https://www.boots.com/dyson-supersonic-hair-dryer-nickel-copper-10276620</g:link>
+      <g:image_link>https://boots.scene7.com/is/image/Boots/10276620?op_sharpen=1</g:image_link>
+      <g:additional_image_link>https://boots.scene7.com/is/image/Boots/10276620_2?op_sharpen=1</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>329.99 GBP</g:price>
+      <g:loyalty_program>
+        <g:program_label>boots_advantage_card</g:program_label>
+        <g:tier_label>member</g:tier_label>
+        <g:loyalty_points>1316</g:loyalty_points>
+      </g:loyalty_program>
+      <g:brand>Dyson</g:brand>
+      <g:gtin>5025155509128</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Hair Care &gt; Hair Styling Tools &gt; Hair Dryers</g:google_product_category>
+      <g:product_type>Electrical &gt; Hair Styling Tools &gt; Hair Dryers</g:product_type>
+      <g:color>Nickel/Copper</g:color>
+      <g:product_highlight>Intelligent heat control</g:product_highlight>
+      <g:product_highlight>Fast, focused airflow</g:product_highlight>
+      <g:product_highlight>Magnetic styling attachments included</g:product_highlight>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+        <g:price>0.00 GBP</g:price>
+      </g:shipping>
+      <g:pickup_method>buy</g:pickup_method>
+      <g:pickup_sla>next_day</g:pickup_sla>
+      <g:custom_label_0>third_party</g:custom_label_0>
+      <g:custom_label_1>none</g:custom_label_1>
+      <g:custom_label_2>50_plus</g:custom_label_2>
+      <g:custom_label_3>electrical</g:custom_label_3>
+      <g:custom_label_4>christmas_gifting</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>10198755</g:id>
+      <g:title>CHANEL Coco Mademoiselle Eau de Parfum Spray 50ml</g:title>
+      <g:description>A fresh oriental fragrance for women. Coco Mademoiselle Eau de Parfum opens with sparkling orange, reveals a heart of rose and jasmine, and settles into a sensual base of patchouli and vetiver. A bold and elegant signature scent.</g:description>
+      <g:link>https://www.boots.com/chanel-coco-mademoiselle-eau-de-parfum-spray-50ml-10198755</g:link>
+      <g:image_link>https://boots.scene7.com/is/image/Boots/10198755?op_sharpen=1</g:image_link>
+      <g:additional_image_link>https://boots.scene7.com/is/image/Boots/10198755_2?op_sharpen=1</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>112.00 GBP</g:price>
+      <g:loyalty_program>
+        <g:program_label>boots_advantage_card</g:program_label>
+        <g:tier_label>member</g:tier_label>
+        <g:loyalty_points>448</g:loyalty_points>
+      </g:loyalty_program>
+      <g:brand>CHANEL</g:brand>
+      <g:gtin>3145891165456</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Perfume &amp; Cologne</g:google_product_category>
+      <g:product_type>Fragrance &gt; Women's Perfume &gt; Eau de Parfum</g:product_type>
+      <g:item_group_id>10198754</g:item_group_id>
+      <g:size>50ml</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:unit_pricing_measure>50ml</g:unit_pricing_measure>
+      <g:unit_pricing_base_measure>100ml</g:unit_pricing_base_measure>
+      <g:product_detail>
+        <g:section_name>Fragrance</g:section_name>
+        <g:attribute_name>Family</g:attribute_name>
+        <g:attribute_value>Fresh oriental</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:section_name>Fragrance</g:section_name>
+        <g:attribute_name>Key notes</g:attribute_name>
+        <g:attribute_value>Orange, rose, jasmine, patchouli</g:attribute_value>
+      </g:product_detail>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+        <g:price>0.00 GBP</g:price>
+      </g:shipping>
+      <g:pickup_method>buy</g:pickup_method>
+      <g:pickup_sla>next_day</g:pickup_sla>
+      <g:custom_label_0>third_party</g:custom_label_0>
+      <g:custom_label_1>none</g:custom_label_1>
+      <g:custom_label_2>50_plus</g:custom_label_2>
+      <g:custom_label_3>fragrance</g:custom_label_3>
+      <g:custom_label_4>christmas_gifting</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>10198756</g:id>
+      <g:title>CHANEL Coco Mademoiselle Eau de Parfum Spray 100ml</g:title>
+      <g:description>A fresh oriental fragrance for women. Coco Mademoiselle Eau de Parfum opens with sparkling orange, reveals a heart of rose and jasmine, and settles into a sensual base of patchouli and vetiver. A bold and elegant signature scent.</g:description>
+      <g:link>https://www.boots.com/chanel-coco-mademoiselle-eau-de-parfum-spray-100ml-10198756</g:link>
+      <g:image_link>https://boots.scene7.com/is/image/Boots/10198756?op_sharpen=1</g:image_link>
+      <g:additional_image_link>https://boots.scene7.com/is/image/Boots/10198756_2?op_sharpen=1</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>152.00 GBP</g:price>
+      <g:loyalty_program>
+        <g:program_label>boots_advantage_card</g:program_label>
+        <g:tier_label>member</g:tier_label>
+        <g:loyalty_points>608</g:loyalty_points>
+      </g:loyalty_program>
+      <g:brand>CHANEL</g:brand>
+      <g:gtin>3145891165524</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Perfume &amp; Cologne</g:google_product_category>
+      <g:product_type>Fragrance &gt; Women's Perfume &gt; Eau de Parfum</g:product_type>
+      <g:item_group_id>10198754</g:item_group_id>
+      <g:size>100ml</g:size>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:unit_pricing_measure>100ml</g:unit_pricing_measure>
+      <g:unit_pricing_base_measure>100ml</g:unit_pricing_base_measure>
+      <g:product_detail>
+        <g:section_name>Fragrance</g:section_name>
+        <g:attribute_name>Family</g:attribute_name>
+        <g:attribute_value>Fresh oriental</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:section_name>Fragrance</g:section_name>
+        <g:attribute_name>Key notes</g:attribute_name>
+        <g:attribute_value>Orange, rose, jasmine, patchouli</g:attribute_value>
+      </g:product_detail>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+        <g:price>0.00 GBP</g:price>
+      </g:shipping>
+      <g:pickup_method>buy</g:pickup_method>
+      <g:pickup_sla>next_day</g:pickup_sla>
+      <g:custom_label_0>third_party</g:custom_label_0>
+      <g:custom_label_1>none</g:custom_label_1>
+      <g:custom_label_2>50_plus</g:custom_label_2>
+      <g:custom_label_3>fragrance</g:custom_label_3>
+      <g:custom_label_4>christmas_gifting</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>10290012</g:id>
+      <g:title>Pampers Baby-Dry Nappies Size 4 (9-14kg) - 104 Nappies</g:title>
+      <g:description>Pampers Baby-Dry nappies offer up to 12 hours of overnight dryness with absorbing channels that distribute wetness evenly. Stretchy sides and a soft, breathable outer layer for a comfortable fit. Size 4 suits babies weighing 9-14kg. Value pack of 104 nappies.</g:description>
+      <g:link>https://www.boots.com/pampers-baby-dry-nappies-size-4-9-14kg-104-nappies-10290012</g:link>
+      <g:image_link>https://boots.scene7.com/is/image/Boots/10290012?op_sharpen=1</g:image_link>
+      <g:additional_image_link>https://boots.scene7.com/is/image/Boots/10290012_2?op_sharpen=1</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>24.00 GBP</g:price>
+      <g:sale_price>18.00 GBP</g:sale_price>
+      <g:sale_price_effective_date>2026-10-21T00:00:00Z/2026-11-03T23:59:59Z</g:sale_price_effective_date>
+      <g:loyalty_program>
+        <g:program_label>boots_advantage_card</g:program_label>
+        <g:tier_label>member</g:tier_label>
+        <g:loyalty_points>96</g:loyalty_points>
+      </g:loyalty_program>
+      <g:brand>Pampers</g:brand>
+      <g:gtin>8006540923313</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Baby &amp; Toddler &gt; Diapering &gt; Diapers</g:google_product_category>
+      <g:product_type>Baby &amp; Child &gt; Nappies &amp; Wipes &gt; Nappies</g:product_type>
+      <g:size>4</g:size>
+      <g:unit_pricing_measure>104ct</g:unit_pricing_measure>
+      <g:unit_pricing_base_measure>1ct</g:unit_pricing_base_measure>
+      <g:product_highlight>Up to 12 hours of overnight dryness</g:product_highlight>
+      <g:product_highlight>Size 4 for 9-14kg</g:product_highlight>
+      <g:product_highlight>Value pack of 104</g:product_highlight>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+        <g:price>4.50 GBP</g:price>
+      </g:shipping>
+      <g:pickup_method>buy</g:pickup_method>
+      <g:pickup_sla>next_day</g:pickup_sla>
+      <g:custom_label_0>third_party</g:custom_label_0>
+      <g:custom_label_1>sale</g:custom_label_1>
+      <g:custom_label_2>15_to_50</g:custom_label_2>
+      <g:custom_label_3>baby</g:custom_label_3>
+      <g:custom_label_4>evergreen</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>10241193</g:id>
+      <g:title>Boots Vitamin D 25µg (1000 IU) - 90 Tablets</g:title>
+      <g:description>Boots Vitamin D 25µg tablets support the maintenance of normal bones, teeth and muscle function and contribute to the normal function of the immune system. One tablet a day; 90 tablets is a three-month supply. Food supplements should not be used as a substitute for a varied, balanced diet.</g:description>
+      <g:link>https://www.boots.com/boots-vitamin-d-25ug-1000-iu-90-tablets-10241193</g:link>
+      <g:image_link>https://boots.scene7.com/is/image/Boots/10241193?op_sharpen=1</g:image_link>
+      <g:additional_image_link>https://boots.scene7.com/is/image/Boots/10241193_2?op_sharpen=1</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>4.50 GBP</g:price>
+      <g:loyalty_program>
+        <g:program_label>boots_advantage_card</g:program_label>
+        <g:tier_label>member</g:tier_label>
+        <g:loyalty_points>16</g:loyalty_points>
+      </g:loyalty_program>
+      <g:brand>Boots</g:brand>
+      <g:gtin>5000167226089</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Health Care &gt; Fitness &amp; Nutrition &gt; Vitamins &amp; Supplements</g:google_product_category>
+      <g:product_type>Health &amp; Pharmacy &gt; Vitamins &amp; Supplements &gt; Vitamin D</g:product_type>
+      <g:unit_pricing_measure>90ct</g:unit_pricing_measure>
+      <g:unit_pricing_base_measure>1ct</g:unit_pricing_base_measure>
+      <g:product_highlight>One-a-day tablet</g:product_highlight>
+      <g:product_highlight>Three-month supply</g:product_highlight>
+      <g:product_highlight>Supports normal immune function</g:product_highlight>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+        <g:price>4.50 GBP</g:price>
+      </g:shipping>
+      <g:pickup_method>buy</g:pickup_method>
+      <g:pickup_sla>next_day</g:pickup_sla>
+      <g:custom_label_0>own_brand</g:custom_label_0>
+      <g:custom_label_1>none</g:custom_label_1>
+      <g:custom_label_2>under_15</g:custom_label_2>
+      <g:custom_label_3>health</g:custom_label_3>
+      <g:custom_label_4>evergreen</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>10297765</g:id>
+      <g:title>Philips OneBlade 360 Face &amp; Body Trimmer QP2834/20</g:title>
+      <g:description>Philips OneBlade 360 trims, edges and shaves any length of hair. The flexible 360 blade follows the contours of your face for comfortable, efficient results. Includes an adjustable stubble comb plus a body kit with skin guard. Use wet or dry. Rechargeable.</g:description>
+      <g:link>https://www.boots.com/philips-oneblade-360-face-and-body-trimmer-qp2834-20-10297765</g:link>
+      <g:image_link>https://boots.scene7.com/is/image/Boots/10297765?op_sharpen=1</g:image_link>
+      <g:additional_image_link>https://boots.scene7.com/is/image/Boots/10297765_2?op_sharpen=1</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>49.99 GBP</g:price>
+      <g:sale_price>34.99 GBP</g:sale_price>
+      <g:sale_price_effective_date>2026-10-16T00:00:00Z/2026-11-12T23:59:59Z</g:sale_price_effective_date>
+      <g:loyalty_program>
+        <g:program_label>boots_advantage_card</g:program_label>
+        <g:tier_label>member</g:tier_label>
+        <g:loyalty_points>196</g:loyalty_points>
+      </g:loyalty_program>
+      <g:brand>Philips</g:brand>
+      <g:gtin>8710103961529</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Shaving &amp; Grooming &gt; Electric Razors</g:google_product_category>
+      <g:product_type>Electrical &gt; Men's Shavers &amp; Trimmers</g:product_type>
+      <g:gender>male</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:product_highlight>Trims, edges and shaves</g:product_highlight>
+      <g:product_highlight>Flexible 360 blade</g:product_highlight>
+      <g:product_highlight>Use wet or dry</g:product_highlight>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard Delivery</g:service>
+        <g:price>0.00 GBP</g:price>
+      </g:shipping>
+      <g:pickup_method>buy</g:pickup_method>
+      <g:pickup_sla>next_day</g:pickup_sla>
+      <g:custom_label_0>third_party</g:custom_label_0>
+      <g:custom_label_1>sale</g:custom_label_1>
+      <g:custom_label_2>15_to_50</g:custom_label_2>
+      <g:custom_label_3>electrical</g:custom_label_3>
+      <g:custom_label_4>christmas_gifting</g:custom_label_4>
+    </item>
+  </channel>
+</rss>
